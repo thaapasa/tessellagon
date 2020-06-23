@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/main/resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="lib/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="lib/general-utils.jar" sourcepath="/General Utils"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/Java3D/1.5.2/lib/ext/j3dcore.jar" sourcepath="C:/Projects/library/java3d/src"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/Java3D/1.5.2/lib/ext/j3dutils.jar" sourcepath="C:/Projects/library/java3d/src"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/Java3D/1.5.2/lib/ext/vecmath.jar" sourcepath="C:/Projects/library/java3d-svn/all/src"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
